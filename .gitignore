@@ -5,3 +5,7 @@
 build/
 doc/*.txt
 doc/**/*.pdf
+*_BACKUP_*
+*_BASE_*
+*_LOCAL_*
+*_REMOTE_*
