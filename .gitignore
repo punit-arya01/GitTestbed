@@ -5,7 +5,7 @@
 build/
 doc/*.txt
 doc/**/*.pdf
-2_BASE_225538.c
-2_REMOTE_225538.c
-2_BACKUP_225538.c
-2_LOCAL_225538.c
+*_BACKUP_*
+*_BASE_*
+*_LOCAL_*
+*_REMOTE_*
