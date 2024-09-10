@@ -9,3 +9,4 @@ doc/**/*.pdf
 *_BASE_*
 *_LOCAL_*
 *_REMOTE_*
+!l.a
