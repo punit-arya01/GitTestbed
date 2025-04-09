@@ -10,3 +10,5 @@ doc/**/*.pdf
 *_LOCAL_*
 *_REMOTE_*
 !l.a
+/*.orig
+
