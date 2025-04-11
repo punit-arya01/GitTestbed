@@ -1,0 +1,78 @@
+*   1a8343b (HEAD -> refs/heads/master, refs/remotes/MyRemote/master) Merge branch 'created_on_remote'
+|\  
+| * c1d3201 (refs/remotes/MyRemote/created_on_remote, refs/remotes/MyRemote/branch_created_on_remote, refs/heads/created_on_remote) Create test2.c
+* | ba6bf17 New changes in .gitignore and new file.
+* |   bcec5ac Merged with VS Code as merge tool.
+|\ \  
+| * | bdf5a8e (refs/remotes/MyRemote/punit-arya-remote-tracking-branch, refs/heads/punit-arya-remote-tracking-branch) Checking the timing of add and commit commands.
+* | |   39d3847 Merged 1.c with more changes from testing4.
+|\ \ \  
+| * | | e84a798 (refs/heads/testing4) Forgot to demo mergetool.
+* | | |   e851835 Merged 1.c
+|\ \ \ \  
+| * | | | 93b64c5 (refs/heads/testing3) Fixed the commit message.
+* | | | | 08d80f1 Testing whether commit -v is needed at all.
+* | | | | 68752c0 git rm -f deletes file whether staged or modified.
+* | | | | e67cc40 Checking git rm to see wheher file gets deleted from disk for staged files.
+| |_|_|/  
+|/| | |   
+* | | |   8c6d521 Merge pull request #1 from punit-arya/punit-arya-patch-1
+|\ \ \ \  
+| | |_|/  
+| |/| |   
+| * | | 01b3627 (refs/remotes/MyRemote/punit-arya-patch-1, refs/heads/v3, refs/heads/punit-arya-patch-1) Create test1.c
+|/ / /  
+* | | be9baa5 Create github_file
+* | |   795ec54 (refs/heads/MyRemote/master) Merge branch 'testing4' because I can.
+|\ \ \  
+| | |/  
+| |/|   
+| * | 90b60f8 Demonstrating mergetool.
+| * | febc8c2 Added a new feature in 1.c..
+* | | e485854 Added one more change.
+|/ /  
+* / 954c0f0 Fixed in the master.
+|/  
+* 1c0ed36 Fixed a critical issue by simply adding a line to 1.c.
+*   4ed178d Resolved all merge conflicts with the deleted branches: testing, testing1, and testing2.
+|\  
+| * c67874f Resolved merge conflicts with testing.
+| * efb01f9 added one more function in 2.c
+| * 5ddffe1 added a function in 2.c
+* |   8b7be35 Resolved merge conflicts with testing1.
+|\ \  
+| * \   c6db920 Resolved merge conflict.
+| |\ \  
+| | * | 17fe408 Added branch name in the same place.
+| * | | 81b4e01 Changed mention to master branch.
+| * | | 2fb6187 Added branch name in the same place as testing1 branch.
+| |/ /  
+| * | 8c86b0c more changes to 2.c
+| * | eb06121 changes to 2.c
+| * | 126db72 2.c shows as modified ' M'
+| * |   0e22646 Merge branch 'testing1'
+| |\ \  
+| * | | fdc8b1e added the merge conflict files in gitignore
+| * | | 5ddff3d added more changes in master's 1.c
+* | | | 10e964e Added the files in .gitignore.
+* | | | 7bfecdf Added a line to show that the change done is in testing1 branch.
+| |/ /  
+|/| |   
+* | | b134b5e added a class in 3.java
+|/ /  
+* | 8de6835 added function f1 to 2.c
+* | 1e6b7a3 these changes are still in master
+|/  
+* c59a82a (tag: refs/tags/v3.1) starting light-weight tags
+* 99438a7 (tag: refs/tags/v3) Before starting tags.
+* 5965ecc i'm going to amend this again and i've amended it by adding this line and here i go again adding another line
+* ab2c5c8 renamed the README (this is amended)
+* 0d24cd6 deleted 4.pl which was in modified state
+* 47031b0 skipped the staging area by passing the -a option to commit
+* eb8474a 2.pdf deleted
+* 425bab8 Checking the insertions message after committing command
+* da85727 On branch master Changes to be committed: modified:   README
+* 823e90a On branch master Changes to be committed: 	modified:   README
+* 3a4d67f LICENSE AND STATUS WERE ' M' and 'MM' in status -s, did git add them, now they are 'M ' and 'M '
+* 9a6615c More changes
+* f06bb84 (tag: refs/tags/v0, refs/heads/branch_v0) initial version
